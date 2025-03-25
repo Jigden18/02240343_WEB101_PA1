@@ -1,4 +1,4 @@
-# 🎵 SoundCloud Web App – README  
+# 🎵 SoundCloud Web App  
 
 ## 📌 Overview  
 This project is a **SoundCloud-inspired web app** built with **Next.js**. The goal was to create a user-friendly interface that allows users to explore music, sign in, and interact with content seamlessly.  
